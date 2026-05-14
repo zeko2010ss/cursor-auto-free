@@ -1,6 +1,6 @@
 # Cursor Auto Free (Node.js Version)
 
-![Cursor Auto Free](img/screen.png)
+![Cursor Auto Free](img/screen.png?v=1)
 
 This is a Node.js cursor auto free using `puppeteer-real-browser` to handle browser automation and Cloudflare Turnstile verification.
 
