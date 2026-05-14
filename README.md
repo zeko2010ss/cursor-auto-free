@@ -2,6 +2,16 @@
 
 This is a Node.js cursor auto free using `puppeteer-real-browser` to handle browser automation and Cloudflare Turnstile verification.
 
+## ⚠️ Educational Disclaimer
+
+**This project is for EDUCATIONAL PURPOSES ONLY.**
+
+- This tool is designed to demonstrate browser automation, email verification processes, and authentication workflows for learning purposes.
+- **The use of this project for commercial purposes, profit-making, resale, or promotion is strictly prohibited.**
+- The author is not responsible for any misuse of this software or any violations of terms of service of third-party services.
+- By using this project, you agree to use it solely for educational and learning purposes.
+- Do not use this tool in any way that violates the terms of service of Cursor AI or any other platform.
+
 ## Prerequisites
 
 - Node.js (v18 or higher)
