@@ -1,0 +1,24 @@
+{
+  "name": "cursor-auto-free-node",
+  "version": "1.0.0",
+  "description": "Cursor Auto Free using Node.js and puppeteer-real-browser",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "chalk": "^4.1.2",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "imapflow": "^1.0.156",
+    "log-symbols": "^4.1.0",
+    "mailpop3": "^0.1.0",
+    "ora": "^5.4.1",
+    "puppeteer": "^22.10.0",
+    "puppeteer-real-browser": "^1.4.4",
+    "sqlite3": "^6.0.1",
+    "uuid": "^9.0.1"
+  }
+}
